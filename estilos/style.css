@@ -27,7 +27,7 @@ main {
     /* Estas 4 linhas fazem o container centralizar*/
     height: 627px;
     width: 311px;
-    background: url("../imagens/frame-iphone.png") no-repeat;
+    background: url("../imagens/frame-iphon2.png") no-repeat;
 }
 #tela {
     position: relative;
